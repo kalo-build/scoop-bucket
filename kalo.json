@@ -1,0 +1,15 @@
+{
+    "version": "0.0.1-dev-300126",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kalo-build/kalo-cli/releases/download/v0.0.1-dev-300126/kalo_0.0.1-dev-300126_windows_x86_64.zip",
+            "bin": [
+                "kalo.exe"
+            ],
+            "hash": "5ccc0e5e5cca2225abe5052b5397a17d7941bc841ac327cc8848d165a3a57f9a"
+        }
+    },
+    "homepage": "https://github.com/kalo-build/kalo-cli",
+    "license": "MIT",
+    "description": "Kalo CLI - Plugin-based code generation and database management"
+}
