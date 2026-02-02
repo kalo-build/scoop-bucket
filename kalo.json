@@ -1,12 +1,12 @@
 {
-    "version": "0.0.1-dev-300126",
+    "version": "0.0.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kalo-build/kalo-cli/releases/download/v0.0.1-dev-300126/kalo_0.0.1-dev-300126_windows_x86_64.zip",
+            "url": "https://github.com/kalo-build/kalo-cli/releases/download/v0.0.1/kalo_0.0.1_windows_x86_64.zip",
             "bin": [
                 "kalo.exe"
             ],
-            "hash": "5ccc0e5e5cca2225abe5052b5397a17d7941bc841ac327cc8848d165a3a57f9a"
+            "hash": "c31c119c4ecccbbc4393ebe7a688d99b97ff105e7fabab404867bd383d3f8bb7"
         }
     },
     "homepage": "https://github.com/kalo-build/kalo-cli",
